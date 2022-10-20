@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - L2
+  - Z2
+  - OM
+  - I1
+  - Z1
+  - T2
+  - T1
+  - I2
+  - O1
+  - L1
+  - T2-2
+  - T1-2
+  - O2
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Character
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1837175465
+    locked: 0
+  - name: Mark
+    uniqueID: 2180231163
+    locked: 0
+  - name: Player
+    uniqueID: 3815035937
+    locked: 0
